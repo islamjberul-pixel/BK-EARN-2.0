@@ -572,7 +572,7 @@
                 <input type="text" id="profileName">
                 <label>বিকাশ নম্বর:</label>
                 <input type="text" id="profileUpi">
-                <button id="update-profile-btn" class="btn btn-primary">প্রোফাইল আপডেট করুন</button>
+                <button id="update-profile-btn" class="btn btn-primary">প্রোফাইল আপডেট করুন</button> 
             </div>
              <div class="card">
                 <h3>লেনদেনের ইতিহাস</h3>
